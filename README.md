@@ -1,10 +1,13 @@
-Dados de Super-Heróis
+## Dados de Super-Heróis
 
-Integrantes:
+### Integrantes:
+
+Davy Pedro
 Pedro Emmanuel
 Thomas Frits Bruns
-Davy Pedro
 
-Dataset Ultilizado:
+
+## Dataset Ultilizado:
+
 Dados da Wikia DC comics encontrado no link:
 https://github.com/fivethirtyeight/data/blob/master/comic-characters/dc-wikia-data.csv
